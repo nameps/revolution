@@ -1,9 +1,9 @@
 Generation
-1.Lost Genneration
-2.Silent Genneration
-3.Silent Genneration
-4.Baby Genneration(Gent-x)
+1.Lost Generation
+2.Silent Generation
+3.Silent Generation
+4.Baby Generation(Gent-x)
 5.Millemnnials(Gen-y)
-6.Genneration -z
-
+6.Generation -z
+7.Generation -Alpha
 List of named generrations
